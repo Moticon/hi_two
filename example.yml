@@ -1,0 +1,9 @@
+---
+user:
+  name: pat
+  location:
+    city: Austin
+    state: OK
+  roles:
+    - admin
+    - papa

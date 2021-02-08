@@ -1,0 +1,12 @@
+<root>
+    <user>
+        <name>john</name>
+        <location>
+            <city>Ninevah</city>
+            <state>OK</state>
+        </location>
+        <roles>admin</roles>
+        <roles>papa2</roles>
+    </user>
+
+</root>
